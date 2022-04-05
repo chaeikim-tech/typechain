@@ -1,0 +1,16 @@
+{
+  "name": "typechains",
+  "version": "1.0.0",
+  "description": "Learning typeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.ts",
+    "prestart": "tsc"
+  },
+  "author": "chaeikim",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
